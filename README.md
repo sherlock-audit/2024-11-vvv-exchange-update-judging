@@ -163,3 +163,13 @@ File: VVVVCTokenDistributor.sol
 
 ```
 
+
+
+## Discussion
+
+**sherlock-admin2**
+
+The protocol team fixed this issue in the following PRs/commits:
+https://github.com/vvvdevs/vvv-platform-smart-contracts/pull/99
+
+
